@@ -1,2 +1,2 @@
 # Owarimonogatari S2
-![poster](https://github.com/Nekomoekissaten/Owarimonogatari-S2/raw/master/poster.jpg)
+![poster](https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2/raw/master/poster.jpg)
