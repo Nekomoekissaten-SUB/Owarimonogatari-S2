@@ -11,14 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: gatari
-Audio File: [ReinForce] Owarimonogatari ~Ougi Dark ~ Part3 (BDRip 1920x1080 x264 FLAC).mkv
-Video File: [ReinForce] Owarimonogatari ~Ougi Dark ~ Part3 (BDRip 1920x1080 x264 FLAC).mkv
+Video File: ../../MonogatariC/Owarimonogatari/[Nekomoe kissaten&VCB-Studio] Owarimonogatari S2 [07][Ma10p_1080p][x265_2flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 66
-Active Line: 82
-Video Position: 584
+Scroll Position: 363
+Active Line: 370
+Video Position: 2671
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -408,10 +407,10 @@ Dialogue: 0,0:16:33.63,0:16:34.64,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准
 Dialogue: 0,0:18:08.98,0:18:09.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,40)\pos(651.2,465.4)}从幼女(YOUJO)变成妖女(YOUJO)
 Dialogue: 0,0:18:10.02,0:18:10.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(651.2,465.4)}然后又想变回幼女
 Dialogue: 0,0:23:00.31,0:23:01.56,gatari,,0,0,0,,{\c&H00BA9551\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(641.6,452.6)}我去去就回
-Dialogue: 0,0:03:21.34,0:03:22.09,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(520,455.8)}根据其性质由来
-Dialogue: 0,0:03:22.14,0:03:23.09,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(702.4,502.2)}忍野扇对于HeartUnderBlade所拥有的
-Dialogue: 0,0:03:23.14,0:03:24.10,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(480,459)}物质实体化技能
-Dialogue: 0,0:03:24.14,0:03:24.85,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(638.4,455.8)}应该是非常熟悉的吧
+Dialogue: 0,0:01:51.38,0:01:52.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(520,455.8)}根据其性质由来
+Dialogue: 0,0:01:52.17,0:01:53.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(702.4,502.2)}忍野扇对于HeartUnderBlade所拥有的
+Dialogue: 0,0:01:53.17,0:01:54.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(480,459)}物质实体化技能
+Dialogue: 0,0:01:54.17,0:01:54.88,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(638.4,455.8)}应该是非常熟悉的吧
 Dialogue: 0,0:12:11.58,0:12:12.83,gatari,,0,0,0,,{\c&H005E6F40\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(764.8,491)}婴儿就应该像这样加以保护吧
 Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(478.4,251)}黑仪 如果是这样的话
 Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(780.8,519.8)}那就不是「This is a pen.」
