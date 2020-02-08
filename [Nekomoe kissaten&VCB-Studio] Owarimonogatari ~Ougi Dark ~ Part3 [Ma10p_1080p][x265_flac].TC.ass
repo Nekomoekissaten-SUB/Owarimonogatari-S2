@@ -16,7 +16,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 360
-Active Line: 369
+Active Line: 368
 Video Position: 2737
 
 [V4+ Styles]
@@ -391,33 +391,33 @@ Dialogue: 0,0:16:41.02,0:16:41.77,comment,,0,0,0,,{\bord0\fn方正喵鸣\c&H003D
 Dialogue: 0,0:16:41.02,0:16:41.77,comment,,0,0,0,,{\bord0\fn方正喵鸣\c&H003D403D\frz9.338\fsp5\pos(496.8,298)}八\N九\N寺\N真\N宵
 Dialogue: 0,0:20:27.20,0:20:32.08,comment,,0,0,0,,這裡眼裡的字是：盯…
 Dialogue: 0,0:20:45.68,0:20:48.35,comment,,0,0,0,,註: 影縫小姐有個詛咒,而北極正好沒有地面
-Dialogue: 0,0:06:33.91,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\rnd7\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 331 412 l 399 414 396 489 336 494)}扇黑暗          其三
-Dialogue: 0,0:06:34.24,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\rnd7\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 340 414 l 446 412 449 487 336 476)}扇黑暗          其三
-Dialogue: 0,0:06:34.58,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\rnd7\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 331 412 l 518 414 499 480 347 475)}扇黑暗          其三
-Dialogue: 0,0:06:35.08,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\rnd7\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 785 414 l 841 417 838 473 787 483)}扇黑暗          其三
-Dialogue: 0,0:06:36.08,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\rnd7\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 843 414 l 845 470 913 464 910 417)}扇黑暗          其三
-Dialogue: 0,0:13:52.51,0:13:53.27,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,40)\pos(636.8,449.4)}侄女?
-Dialogue: 0,0:13:53.31,0:13:54.52,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(819.2,507)}他是這麼稱呼小扇的
-Dialogue: 0,0:13:54.56,0:13:55.52,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(889.6,452.6)}忍野咩咩那樣說了
-Dialogue: 0,0:14:09.45,0:14:10.20,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(636.8,449.4)}所以
-Dialogue: 0,0:14:11.45,0:14:12.70,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(636.8,454.2)}「暗」消失了
-Dialogue: 0,0:16:18.87,0:16:19.87,gatari,,0,0,0,,{\c&H0049B2FF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,40)\pos(612.8,495.8)}正確來說 她想說的大概是「無論如何」
-Dialogue: 0,0:16:19.91,0:16:20.62,gatari,,0,0,0,,{\c&H0049B2FF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(648,449.4)}正確來說…嗎
-Dialogue: 0,0:16:33.63,0:16:34.64,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(627.2,449.4)}你也是
-Dialogue: 0,0:18:08.98,0:18:09.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,40)\pos(651.2,465.4)}從幼女(YOUJO)變成妖女(YOUJO)
-Dialogue: 0,0:18:10.02,0:18:10.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(651.2,465.4)}然後又想變回幼女
-Dialogue: 0,0:23:00.31,0:23:01.56,gatari,,0,0,0,,{\c&H00BA9551\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(641.6,452.6)}我去去就回
-Dialogue: 0,0:01:51.38,0:01:52.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(520,455.8)}根據其性質由來
-Dialogue: 0,0:01:52.17,0:01:53.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(702.4,502.2)}忍野扇對於HeartUnderBlade所擁有的
-Dialogue: 0,0:01:53.17,0:01:54.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,40)\pos(480,459)}物質實體化技能
-Dialogue: 0,0:01:54.17,0:01:54.88,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(638.4,455.8)}應該是非常熟悉的吧
-Dialogue: 0,0:12:11.58,0:12:12.83,gatari,,0,0,0,,{\c&H005E6F40\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(764.8,491)}嬰兒就應該像這樣加以保護吧
-Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(478.4,251)}黑儀 如果是這樣的話
-Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(780.8,519.8)}那就不是「This is a pen.」
-Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(801.6,566.2)}而是「dépaysement」了。
-Dialogue: 0,0:13:17.86,0:13:19.61,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,0)\pos(734.4,505.4)}現在想起來 一開始小扇就對羽川非常警惕
-Dialogue: 0,0:13:21.11,0:13:21.86,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(0,40)\pos(689.6,443)}「扇」這個名字
-Dialogue: 0,0:13:21.90,0:13:23.36,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\rnd10\fs45\fad(40,0)\pos(632,495.8)}正確答案會不會其實是在「羽」上立「戶」呢
+Dialogue: 0,0:06:33.91,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 331 412 l 399 414 396 489 336 494)}扇黑暗          其三
+Dialogue: 0,0:06:34.24,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 340 414 l 446 412 449 487 336 476)}扇黑暗          其三
+Dialogue: 0,0:06:34.58,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 331 412 l 518 414 499 480 347 475)}扇黑暗          其三
+Dialogue: 0,0:06:35.08,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 785 414 l 841 417 838 473 787 483)}扇黑暗          其三
+Dialogue: 0,0:06:36.08,0:06:36.91,title,,0,0,0,,{\c&H00FFFFFF\bord0\fsp5\3c&H005D5322\fs55\fn方正准雅宋_GBK\pos(622,470.6)\clip(m 843 414 l 845 470 913 464 910 417)}扇黑暗          其三
+Dialogue: 0,0:13:52.51,0:13:53.27,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,40)\pos(636.8,449.4)}侄女?
+Dialogue: 0,0:13:53.31,0:13:54.52,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,40)\pos(819.2,507)}他是這麼稱呼小扇的
+Dialogue: 0,0:13:54.56,0:13:55.52,gatari,,0,0,0,,{\c&H00FFFFFB\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,0)\pos(889.6,452.6)}忍野咩咩那樣說了
+Dialogue: 0,0:14:09.45,0:14:10.20,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(636.8,449.4)}所以
+Dialogue: 0,0:14:11.45,0:14:12.70,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(636.8,454.2)}「暗」消失了
+Dialogue: 0,0:16:18.87,0:16:19.87,gatari,,0,0,0,,{\c&H0049B2FF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,40)\pos(612.8,495.8)}正確來說 她想說的大概是「無論如何」
+Dialogue: 0,0:16:19.91,0:16:20.62,gatari,,0,0,0,,{\c&H0049B2FF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,0)\pos(648,449.4)}正確來說…嗎
+Dialogue: 0,0:16:33.63,0:16:34.64,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(627.2,449.4)}你也是
+Dialogue: 0,0:18:08.98,0:18:09.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,40)\pos(651.2,465.4)}從幼女(YOUJO)變成妖女(YOUJO)
+Dialogue: 0,0:18:10.02,0:18:10.98,gatari,,0,0,0,,{\c&H001111BC\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,0)\pos(651.2,465.4)}然後又想變回幼女
+Dialogue: 0,0:23:00.31,0:23:01.56,gatari,,0,0,0,,{\c&H00BA9551\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(641.6,452.6)}我去去就回
+Dialogue: 0,0:01:51.38,0:01:52.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(520,455.8)}根據其性質由來
+Dialogue: 0,0:01:52.17,0:01:53.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,40)\pos(702.4,502.2)}忍野扇對於HeartUnderBlade所擁有的
+Dialogue: 0,0:01:53.17,0:01:54.13,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,40)\pos(480,459)}物質實體化技能
+Dialogue: 0,0:01:54.17,0:01:54.88,gatari,,0,0,0,,{\c&H00FEFFFF\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,0)\pos(638.4,455.8)}應該是非常熟悉的吧
+Dialogue: 0,0:12:11.58,0:12:12.83,gatari,,0,0,0,,{\c&H005E6F40\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(764.8,491)}嬰兒就應該像這樣加以保護吧
+Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(478.4,251)}黑儀 如果是這樣的話
+Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(780.8,519.8)}那就不是「This is a pen.」
+Dialogue: 0,0:13:15.10,0:13:16.60,gatari,,0,0,0,,{\c&H00040404\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(801.6,566.2)}而是「dépaysement」了。
+Dialogue: 0,0:13:17.86,0:13:19.61,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,0)\pos(734.4,505.4)}現在想起來 一開始小扇就對羽川非常警惕
+Dialogue: 0,0:13:21.11,0:13:21.86,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(0,40)\pos(689.6,443)}「扇」這個名字
+Dialogue: 0,0:13:21.90,0:13:23.36,gatari,,0,0,0,,{\c&H00272628\bord0\fn方正准雅宋_GBK\fsp5\fs45\fad(40,0)\pos(632,495.8)}正確答案會不會其實是在「羽」上立「戶」呢
 Comment: 0,0:00:02.76,0:00:04.76,gatari,,0,0,0,,------------------OPED------------------
 Dialogue: 0,0:05:04.90,0:05:12.29,OPJP3,,0,0,0,karaoke,{\fad(100,100)}本当は はじめから すべて わかっていたと
 Dialogue: 0,0:05:12.50,0:05:19.75,OPJP3,,0,0,0,karaoke,{\fad(100,100)}すべてが終わってから やっと わかる いつも

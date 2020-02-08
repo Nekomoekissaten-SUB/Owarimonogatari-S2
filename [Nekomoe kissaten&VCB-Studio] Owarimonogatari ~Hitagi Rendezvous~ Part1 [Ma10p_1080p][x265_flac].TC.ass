@@ -16,8 +16,7 @@ Video File: [ReinForce] Owarimonogatari ~Hitagi Rendezvous~ Part1 (BDRip 1920x10
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 351
-Active Line: 354
+Active Line: 19
 Video Position: 23079
 
 [V4+ Styles]
@@ -46,39 +45,39 @@ Dialogue: 0,0:12:44.66,0:12:49.37,comment,,0,0,0,,註:阿爾伯特·愛因斯坦
 Dialogue: 0,0:17:22.56,0:17:23.60,comment,,0,0,0,,註: 這個詞屬於高級詞彙 阿良良木並沒有聽懂
 Dialogue: 0,0:18:36.13,0:18:40.89,comment,,0,0,0,,{\an9}註：紅色印章的意思是 歷申訴
 Dialogue: 0,0:21:19.04,0:21:20.55,comment,,0,0,0,,註:伊能忠敬花費將近20年時間,徒步走遍日本,用測量器經過10次測量(第9次未參加),\N做成「大日本沿海輿地全圖」。
-Dialogue: 0,0:03:20.05,0:03:23.05,gatari,,0,0,0,,{\c&H00FDFEFF\bord4\rnd7\fsp5\3c&H005D5322\fn方正准雅宋_GBK\pos(598,493)}黑儀約會          其一
-Dialogue: 0,0:04:59.19,0:05:00.19,gatari,,0,0,0,,{\c&H00242525\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(619.333,553)}為什麼我什麼都沒說你也能感覺到啊
-Dialogue: 0,0:05:00.86,0:05:01.86,gatari,,0,0,0,,{\c&H00242525\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(725.333,549)}怎麼可能會有這種單方面的以心傳心
-Dialogue: 0,0:05:30.14,0:05:31.14,gatari,,0,0,0,,{\c&H0051D7FE\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(665.333,535)}正篇都不存在的 要怎麼做出摘要版啊
-Dialogue: 0,0:06:34.58,0:06:35.58,gatari,,0,0,0,,{\c&H0079362F\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(675.333,473)}難以掩飾心中的一絲不安
-Dialogue: 0,0:06:36.33,0:06:37.25,gatari,,0,0,0,,{\c&H0079362F\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(609.333,467)}不能說沒有一點不安
-Dialogue: 0,0:08:07.67,0:08:08.67,gatari,,0,0,0,,{\c&H004D35FC\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(702.133,567.8)}看來我需要講講她的主人影縫小姐的事情
-Dialogue: 0,0:08:45.54,0:08:46.54,gatari,,0,0,0,,{\c&H00447F00\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(767.733,511.8)}她估計是想問忍是不是在影子裡
-Dialogue: 0,0:09:19.33,0:09:20.33,gatari,,0,0,0,,{\c&H006811D0\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(822.133,566.2)}還有——忍野咩咩現在在哪裡
-Dialogue: 0,0:13:53.77,0:13:54.68,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(604,462.2)}從車牌號碼來判斷
-Dialogue: 0,0:13:54.68,0:13:54.73,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(604,434.2)}從車牌號碼來判斷
-Dialogue: 0,0:13:54.73,0:13:54.77,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(604,352.2)}從車牌號碼來判斷
-Dialogue: 0,0:13:54.77,0:13:54.81,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(604,246.2)}從車牌號碼來判斷
-Dialogue: 0,0:13:54.77,0:13:54.81,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(664,526.2)}那應該是租借的轎車
-Dialogue: 0,0:13:54.81,0:13:54.85,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(664,424.2)}那應該是租借的轎車
-Dialogue: 0,0:13:54.85,0:13:54.89,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(664,346.2)}那應該是租借的轎車
-Dialogue: 0,0:13:54.89,0:13:55.77,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(664,312.2)}那應該是租借的轎車
+Dialogue: 0,0:03:20.05,0:03:23.05,gatari,,0,0,0,,{\c&H00FDFEFF\bord4\fsp5\3c&H005D5322\fn方正准雅宋_GBK\pos(598,493)}黑儀約會          其一
+Dialogue: 0,0:04:59.19,0:05:00.19,gatari,,0,0,0,,{\c&H00242525\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(619.333,553)}為什麼我什麼都沒說你也能感覺到啊
+Dialogue: 0,0:05:00.86,0:05:01.86,gatari,,0,0,0,,{\c&H00242525\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(725.333,549)}怎麼可能會有這種單方面的以心傳心
+Dialogue: 0,0:05:30.14,0:05:31.14,gatari,,0,0,0,,{\c&H0051D7FE\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(665.333,535)}正篇都不存在的 要怎麼做出摘要版啊
+Dialogue: 0,0:06:34.58,0:06:35.58,gatari,,0,0,0,,{\c&H0079362F\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(675.333,473)}難以掩飾心中的一絲不安
+Dialogue: 0,0:06:36.33,0:06:37.25,gatari,,0,0,0,,{\c&H0079362F\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(609.333,467)}不能說沒有一點不安
+Dialogue: 0,0:08:07.67,0:08:08.67,gatari,,0,0,0,,{\c&H004D35FC\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(702.133,567.8)}看來我需要講講她的主人影縫小姐的事情
+Dialogue: 0,0:08:45.54,0:08:46.54,gatari,,0,0,0,,{\c&H00447F00\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(767.733,511.8)}她估計是想問忍是不是在影子裡
+Dialogue: 0,0:09:19.33,0:09:20.33,gatari,,0,0,0,,{\c&H006811D0\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(822.133,566.2)}還有——忍野咩咩現在在哪裡
+Dialogue: 0,0:13:53.77,0:13:54.68,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(604,462.2)}從車牌號碼來判斷
+Dialogue: 0,0:13:54.68,0:13:54.73,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(604,434.2)}從車牌號碼來判斷
+Dialogue: 0,0:13:54.73,0:13:54.77,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(604,352.2)}從車牌號碼來判斷
+Dialogue: 0,0:13:54.77,0:13:54.81,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(604,246.2)}從車牌號碼來判斷
+Dialogue: 0,0:13:54.77,0:13:54.81,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(664,526.2)}那應該是租借的轎車
+Dialogue: 0,0:13:54.81,0:13:54.85,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(664,424.2)}那應該是租借的轎車
+Dialogue: 0,0:13:54.85,0:13:54.89,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(664,346.2)}那應該是租借的轎車
+Dialogue: 0,0:13:54.89,0:13:55.77,gatari,,0,0,0,,{\c&H003B6401\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(664,312.2)}那應該是租借的轎車
 Dialogue: 0,0:14:00.65,0:14:01.52,gatari,,0,0,0,,{\3c&H00F9D26C\bord2\c&H006B351B\blur3\fs35\pos(642.286,419.571)\fn方正准雅宋_GBK\fsp5}黑色
-Dialogue: 0,0:09:33.71,0:09:34.63,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(646.133,468)}啊 是「不是什麼都跑」的那個她嗎
-Dialogue: 0,0:09:34.63,0:09:34.67,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(551.733,468)}啊 是「不是什麼都跑」的那個她嗎
-Dialogue: 0,0:09:34.67,0:09:34.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(238.133,468)}啊 是「不是什麼都跑」的那個她嗎
-Dialogue: 0,0:09:34.72,0:09:34.76,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(-46.667,468)}啊 是「不是什麼都跑」的那個她嗎
-Dialogue: 0,0:09:34.76,0:09:34.80,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(-315.467,468)}啊 是「不是什麼都跑」的那個她嗎
-Dialogue: 0,0:09:34.67,0:09:34.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(1500.533,468)}不 是「不是什麼都知道」
-Dialogue: 0,0:09:34.72,0:09:34.76,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(1217.333,468)}不 是「不是什麼都知道」
-Dialogue: 0,0:09:34.76,0:09:34.80,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(938.933,468)}不 是「不是什麼都知道」
-Dialogue: 0,0:09:34.80,0:09:34.84,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(729.333,468)}不 是「不是什麼都知道」
-Dialogue: 0,0:09:34.84,0:09:35.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(646.133,468)}不 是「不是什麼都知道」
-Dialogue: 0,0:15:48.05,0:15:49.05,gatari,,0,0,0,,{\c&H0091EAE2\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(627.2,463)}小人閒居為不善
+Dialogue: 0,0:09:33.71,0:09:34.63,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(646.133,468)}啊 是「不是什麼都跑」的那個她嗎
+Dialogue: 0,0:09:34.63,0:09:34.67,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(551.733,468)}啊 是「不是什麼都跑」的那個她嗎
+Dialogue: 0,0:09:34.67,0:09:34.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(238.133,468)}啊 是「不是什麼都跑」的那個她嗎
+Dialogue: 0,0:09:34.72,0:09:34.76,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(-46.667,468)}啊 是「不是什麼都跑」的那個她嗎
+Dialogue: 0,0:09:34.76,0:09:34.80,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(-315.467,468)}啊 是「不是什麼都跑」的那個她嗎
+Dialogue: 0,0:09:34.67,0:09:34.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(1500.533,468)}不 是「不是什麼都知道」
+Dialogue: 0,0:09:34.72,0:09:34.76,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(1217.333,468)}不 是「不是什麼都知道」
+Dialogue: 0,0:09:34.76,0:09:34.80,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(938.933,468)}不 是「不是什麼都知道」
+Dialogue: 0,0:09:34.80,0:09:34.84,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(729.333,468)}不 是「不是什麼都知道」
+Dialogue: 0,0:09:34.84,0:09:35.72,gatari,,0,0,0,,{\c&H00FFFFFF\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(646.133,468)}不 是「不是什麼都知道」
+Dialogue: 0,0:15:48.05,0:15:49.05,gatari,,0,0,0,,{\c&H0091EAE2\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(627.2,463)}小人閒居為不善
 Dialogue: 0,0:16:23.21,0:16:23.33,gatari,,0,0,0,,{\3c&H00F9D26C\bord2\c&H006B351B\blur3\fs35\pos(642.286,419.571)\fn方正准雅宋_GBK\fsp5} 黑色
 Dialogue: 2,0:17:11.51,0:17:15.26,gatari,,0,0,0,,{\fsp10\fs55\pos(747.2,482.2)\frz0.7492}車上有\N小寶寶
 Dialogue: 1,0:17:11.51,0:17:15.26,gatari,,0,0,0,,{\c&H001C1E1F\bord0\p1\pos(716.8,499.8)}m 27 0 l 27 0 l 293 0 l 293 136 l 27 136
-Dialogue: 0,0:18:47.02,0:18:48.02,gatari,,0,0,0,,{\c&H005DF4FD\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(627.2,463)}奇怪的敬語
+Dialogue: 0,0:18:47.02,0:18:48.02,gatari,,0,0,0,,{\c&H005DF4FD\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(627.2,463)}奇怪的敬語
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(371.2,355.8)}敬啟,天氣轉暖,你過得還好嗎?
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(572.8,386.2)}3月14日將至 我已收到你意向參加直江津高中的畢業典禮的消息。
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(388.8,416.6)}能一同迎來畢業的一天不勝榮幸。
@@ -87,49 +86,49 @@ Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(1203.2,683.8)}敬上
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(113.6,651.8)}追加
 Dialogue: 0,0:18:31.63,0:18:40.89,gatari,,0,0,0,,{\c&H00343A3C\bord0\fn方正准雅宋_GBK\fs30\pos(324.8,680.6)}請不要與阿良良木君直接通電話
-Dialogue: 0,0:19:41.86,0:19:42.78,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(630,463)}可能性多種多樣
-Dialogue: 0,0:19:42.78,0:19:42.82,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(630,423)}可能性多種多樣
-Dialogue: 0,0:19:42.82,0:19:42.86,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(630,333.4)}可能性多種多樣
-Dialogue: 0,0:19:42.86,0:19:42.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(630,210.2)}可能性多種多樣
-Dialogue: 0,0:19:42.86,0:19:42.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(846.4,611.8)}雖然還有點擔心
-Dialogue: 0,0:19:42.91,0:19:42.95,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(844,493.4)}雖然還有點擔心
-Dialogue: 0,0:19:42.95,0:19:42.99,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(844,405.4)}雖然還有點擔心
-Dialogue: 0,0:19:42.99,0:19:43.78,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(844,367)}雖然還有點擔心
-Dialogue: 0,0:19:43.78,0:19:43.82,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(941.6,367)}雖然還有點擔心
-Dialogue: 0,0:19:43.82,0:19:43.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(1160.8,367)}雖然還有點擔心
-Dialogue: 0,0:19:43.87,0:19:43.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(1439.2,367)}雖然還有點擔心
-Dialogue: 0,0:19:43.82,0:19:43.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(-131.6,507)}現在的我似乎也沒什麼可做的事
-Dialogue: 0,0:19:43.87,0:19:43.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(152,507)}現在的我似乎也沒什麼可做的事
-Dialogue: 0,0:19:43.91,0:19:43.95,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(433.6,507)}現在的我似乎也沒什麼可做的事
-Dialogue: 0,0:19:43.95,0:19:43.99,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(644.8,507)}現在的我似乎也沒什麼可做的事
-Dialogue: 0,0:19:43.99,0:19:44.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(723.2,507)}現在的我似乎也沒什麼可做的事
-Dialogue: 0,0:20:49.72,0:20:50.64,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(649,532)}在我看來,根本就搞不清地學是要學習什麼的科目
-Dialogue: 0,0:20:50.64,0:20:50.68,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(649,487.267)}在我看來,根本就搞不清地學是要學習什麼的科目
-Dialogue: 0,0:20:50.68,0:20:50.72,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(649,377.933)}在我看來,根本就搞不清地學是要學習什麼的科目
-Dialogue: 0,0:20:50.72,0:20:50.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(649,236.6)}在我看來,根本就搞不清地學是要學習什麼的科目
-Dialogue: 0,0:20:50.72,0:20:50.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(643,480)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
-Dialogue: 0,0:20:50.77,0:20:50.81,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(643,337.333)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
-Dialogue: 0,0:20:50.81,0:20:50.85,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(643,230.667)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
-Dialogue: 0,0:20:50.85,0:20:51.64,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(643,190.667)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
-Dialogue: 0,0:20:51.73,0:20:51.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(651,530)}她對天體依然有著相當深厚的感情
-Dialogue: 0,0:20:51.77,0:20:51.81,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(651,410.667)}她對天體依然有著相當深厚的感情
-Dialogue: 0,0:20:51.81,0:20:51.85,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(651,318.667)}她對天體依然有著相當深厚的感情
-Dialogue: 0,0:20:51.85,0:20:52.73,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs50\pos(651,285.334)}她對天體依然有著相當深厚的感情
-Dialogue: 0,0:21:27.51,0:21:28.43,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(661,456.001)}這是我第一次聽說
-Dialogue: 0,0:21:28.43,0:21:28.47,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(661,422.668)}這是我第一次聽說
-Dialogue: 0,0:21:28.47,0:21:28.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(661,333.334)}這是我第一次聽說
-Dialogue: 0,0:21:28.51,0:21:28.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(661,216.001)}這是我第一次聽說
-Dialogue: 0,0:21:28.51,0:21:28.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,493.334)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:28.55,0:21:28.60,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,380.001)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:28.60,0:21:28.64,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,286.667)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:28.64,0:21:29.43,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,257.334)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:29.43,0:21:29.47,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,297.334)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:29.47,0:21:29.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,384.001)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:29.51,0:21:29.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\rnd10\fs55\pos(499,501.334)}自己女朋友的夢想竟然是當太空人
-Dialogue: 0,0:21:29.51,0:21:29.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(653,229)}這是真的嗎?
-Dialogue: 0,0:21:29.55,0:21:29.60,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(653,346.134)}這是真的嗎?
-Dialogue: 0,0:21:29.60,0:21:29.64,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(653,432.001)}這是真的嗎?
-Dialogue: 0,0:21:29.64,0:21:30.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\rnd10\fs55\pos(653,464.001)}這是真的嗎?
+Dialogue: 0,0:19:41.86,0:19:42.78,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(630,463)}可能性多種多樣
+Dialogue: 0,0:19:42.78,0:19:42.82,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(630,423)}可能性多種多樣
+Dialogue: 0,0:19:42.82,0:19:42.86,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(630,333.4)}可能性多種多樣
+Dialogue: 0,0:19:42.86,0:19:42.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(630,210.2)}可能性多種多樣
+Dialogue: 0,0:19:42.86,0:19:42.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(846.4,611.8)}雖然還有點擔心
+Dialogue: 0,0:19:42.91,0:19:42.95,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(844,493.4)}雖然還有點擔心
+Dialogue: 0,0:19:42.95,0:19:42.99,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(844,405.4)}雖然還有點擔心
+Dialogue: 0,0:19:42.99,0:19:43.78,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(844,367)}雖然還有點擔心
+Dialogue: 0,0:19:43.78,0:19:43.82,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(941.6,367)}雖然還有點擔心
+Dialogue: 0,0:19:43.82,0:19:43.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(1160.8,367)}雖然還有點擔心
+Dialogue: 0,0:19:43.87,0:19:43.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(1439.2,367)}雖然還有點擔心
+Dialogue: 0,0:19:43.82,0:19:43.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(-131.6,507)}現在的我似乎也沒什麼可做的事
+Dialogue: 0,0:19:43.87,0:19:43.91,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(152,507)}現在的我似乎也沒什麼可做的事
+Dialogue: 0,0:19:43.91,0:19:43.95,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(433.6,507)}現在的我似乎也沒什麼可做的事
+Dialogue: 0,0:19:43.95,0:19:43.99,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(644.8,507)}現在的我似乎也沒什麼可做的事
+Dialogue: 0,0:19:43.99,0:19:44.87,gatari,,0,0,0,,{\c&H00B57B01\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(723.2,507)}現在的我似乎也沒什麼可做的事
+Dialogue: 0,0:20:49.72,0:20:50.64,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(649,532)}在我看來,根本就搞不清地學是要學習什麼的科目
+Dialogue: 0,0:20:50.64,0:20:50.68,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(649,487.267)}在我看來,根本就搞不清地學是要學習什麼的科目
+Dialogue: 0,0:20:50.68,0:20:50.72,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(649,377.933)}在我看來,根本就搞不清地學是要學習什麼的科目
+Dialogue: 0,0:20:50.72,0:20:50.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(649,236.6)}在我看來,根本就搞不清地學是要學習什麼的科目
+Dialogue: 0,0:20:50.72,0:20:50.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(643,480)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
+Dialogue: 0,0:20:50.77,0:20:50.81,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(643,337.333)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
+Dialogue: 0,0:20:50.81,0:20:50.85,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(643,230.667)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
+Dialogue: 0,0:20:50.85,0:20:51.64,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(643,190.667)}但是對十分珍視小時候全家人一起去天文台的回憶的戰場原來說
+Dialogue: 0,0:20:51.73,0:20:51.77,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(651,530)}她對天體依然有著相當深厚的感情
+Dialogue: 0,0:20:51.77,0:20:51.81,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(651,410.667)}她對天體依然有著相當深厚的感情
+Dialogue: 0,0:20:51.81,0:20:51.85,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(651,318.667)}她對天體依然有著相當深厚的感情
+Dialogue: 0,0:20:51.85,0:20:52.73,gatari,,0,0,0,,{\c&H00783C36\bord0\fn方正准雅宋_GBK\fsp0\fs50\pos(651,285.334)}她對天體依然有著相當深厚的感情
+Dialogue: 0,0:21:27.51,0:21:28.43,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(661,456.001)}這是我第一次聽說
+Dialogue: 0,0:21:28.43,0:21:28.47,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(661,422.668)}這是我第一次聽說
+Dialogue: 0,0:21:28.47,0:21:28.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(661,333.334)}這是我第一次聽說
+Dialogue: 0,0:21:28.51,0:21:28.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(661,216.001)}這是我第一次聽說
+Dialogue: 0,0:21:28.51,0:21:28.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,493.334)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:28.55,0:21:28.60,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,380.001)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:28.60,0:21:28.64,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,286.667)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:28.64,0:21:29.43,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,257.334)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:29.43,0:21:29.47,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,297.334)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:29.47,0:21:29.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,384.001)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:29.51,0:21:29.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp0\fs55\pos(499,501.334)}自己女朋友的夢想竟然是當太空人
+Dialogue: 0,0:21:29.51,0:21:29.55,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(653,229)}這是真的嗎?
+Dialogue: 0,0:21:29.55,0:21:29.60,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(653,346.134)}這是真的嗎?
+Dialogue: 0,0:21:29.60,0:21:29.64,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(653,432.001)}這是真的嗎?
+Dialogue: 0,0:21:29.64,0:21:30.51,gatari,,0,0,0,,{\c&H0063FAFB\bord0\fn方正准雅宋_GBK\fsp8\fs55\pos(653,464.001)}這是真的嗎?
 Comment: 0,0:00:02.76,0:00:04.76,gatari,,0,0,0,,------------------text------------------
 Dialogue: 0,0:00:09.60,0:00:11.85,gatari,,0,0,0,,我愛著戰場原黑儀
 Dialogue: 0,0:00:12.15,0:00:13.66,gatari,,0,0,0,,我可以厚著臉皮說出這樣的話
